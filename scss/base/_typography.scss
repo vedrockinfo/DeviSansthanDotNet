@@ -1,0 +1,76 @@
+html {
+  font-size: 62.5%;
+}
+a,
+p,
+li,
+span {
+  font-size: 1.5rem !important;
+  @include DeviceMaximum768 {
+    font-size: 1.3rem !important;
+  }
+}
+
+.secondary-heading {
+  font-size: 3.6rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: $colorPrimary;
+  @include DeviceMaximum768 {
+    font-size: 2.5rem;
+    text-align: center;
+  }
+}
+.tertiary-heading {
+  font-size: 2rem;
+  font-weight: 600;
+  color: $colorPrimary;
+  @include DeviceMaximum768 {
+    font-size: 1.8rem;
+    text-align: center;
+  }
+}
+
+.heading-six {
+  font-size: 1.6rem;
+  font-weight: 700;
+  color: $colorPrimary;
+  letter-spacing: 0.3px;
+  @include DeviceMaximum768 {
+    font-size: 1.5rem;
+    text-align: center;
+    font-weight: 600;
+  }
+}
+.toolkit-heads{
+  font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: $colorWhite;
+    position: relative;
+    margin-bottom: 30px;
+    padding: 8px 20px;
+    display: inline-block; 
+    &::before{
+      content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background: $colorPrimary;
+    z-index: -1;
+    transform: skewX(25deg) rotate(-2deg);
+    }
+    &::after{
+      content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background: $colorYellow;
+    z-index: -2;
+    transform: skewX(25deg) rotate(5deg);
+    }
+}

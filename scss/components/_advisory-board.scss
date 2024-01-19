@@ -1,0 +1,30 @@
+.experience-section {
+  margin-top: 7rem;
+  .card .card-image {
+    overflow: hidden;
+    max-height: 350px;
+    img.card-img-top {
+      object-fit: cover;
+      //   height: 200px;
+    }
+  }
+  .flag {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px;
+  }
+
+  .flag img {
+    width: 50px !important;
+    border-radius: 50%;
+  }
+  .card-text {
+    text-align: center;
+    @include DeviceMinimum1200 {
+      min-height: 88px;
+    }
+  }
+
+  
+}

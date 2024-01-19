@@ -1,0 +1,17 @@
+@keyframes slidetop {
+  from {
+    top: 51.5%;
+  }
+  to {
+    top: 48.5%;
+  }
+}
+
+@keyframes marquee {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-240%);
+  }
+}
