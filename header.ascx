@@ -131,7 +131,7 @@
                     <a class="dropdown-item" href="disruptive-literacy-the-book.html">Disruptive Literacy The Book</a>
                   </li>
                   <li>
-                    <a class="dropdown-item" href="10x-magazine.html">10X Magazine</a>
+                    <a class="dropdown-item" href="Magazine10x.html">10X Magazine</a>
                   </li>
                   <li>
                     <a class="dropdown-item" href="https://dignityeducation.org/links/">Supporting Documents</a>
