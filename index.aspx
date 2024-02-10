@@ -12,19 +12,19 @@
                 <div class="hero-inner-grid">
                   <div class="hero-inner-item">
                     <div class="hero-content">
-                      <h1>5-7 year olds are reading newspapers!</h1>
+                      <h1>quality education for all</h1>
                       <div class="borderOne"></div>
-                      <p>The groundbreaking Accelerating Learning for All program revolutionizes education through peer-
-                        and activity-based
-                        learning. Don't just believe us - see for yourself!</p>
-                      <div class="link-one"><a role="button" class="btn"
-                          href="https://www.youtube.com/watch?v=7BcWIiQfYHk&t=74s" type="button" target="_blank">watch
-                          video</a>
+                      <p>Literacy is the key to achieving the sustainable development goals – from ending poverty &amp;
+                        hunger to achieving
+                        gender equality. Together, we can achieve the SDGs.</p>
+                      <div class="link-one"><a role="button" class="btn" href="annual-reports.aspx"
+                          type="button">discover
+                          how</a>
                       </div>
                     </div>
                   </div>
                   <div class="hero-inner-item">
-                    <div class="hero-img"><img src="img/slider/hero-001.jpg" alt="" class="img-fluid"></div>
+                    <div class="hero-img"><img src="img/slider/hero-006.jpg" alt="" class="img-fluid"></div>
                   </div>
                 </div>
               </div>
@@ -32,19 +32,37 @@
                 <div class="hero-inner-grid">
                   <div class="hero-inner-item">
                     <div class="hero-content">
-                      <h1>5-7 year olds are reading newspapers!</h1>
+                      <h1>one billion literate</h1>
                       <div class="borderOne"></div>
-                      <p>The groundbreaking Accelerating Learning for All program revolutionizes education through peer-
-                        and activity-based
-                        learning. Don't just believe us - see for yourself!</p>
-                      <div class="link-one"><a role="button" class="btn"
-                          href="https://www.youtube.com/watch?v=7BcWIiQfYHk&t=74s" type="button" target="_blank">watch
-                          video</a>
+                      <p>Let’s mobilise a people’s movement for literacy, ensuring that every last child and adult is
+                        reached. If all work for
+                        literacy, literacy for all is within grasp.</p>
+                      <div class="link-one"><a role="button" class="btn" href="our-projects.aspx" type="button">It's
+                          possible</a>
                       </div>
                     </div>
                   </div>
                   <div class="hero-inner-item">
-                    <div class="hero-img"><img src="img/slider/hero-002.jpg" alt="" class="img-fluid"></div>
+                    <div class="hero-img"><img src="img/slider/hero-005.jpg" alt="" class="img-fluid"></div>
+                  </div>
+                </div>
+              </div>
+              <div class="item">
+                <div class="hero-inner-grid">
+                  <div class="hero-inner-item">
+                    <div class="hero-content">
+                      <h1>Make a lifetime of difference</h1>
+                      <div class="borderOne"></div>
+                      <p>Teaching literacy is the highest form of service, the greatest gift we can offer someone. Join
+                        the each one teach one
+                        campaign today and teach someone to read in just 3 months.</p>
+                      <div class="link-one"><a role="button" class="btn" href="accelerating-learning-for-all.aspx"
+                          type="button">learn how</a>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="hero-inner-item">
+                    <div class="hero-img"><img src="img/slider/hero-004.jpg" alt="" class="img-fluid"></div>
                   </div>
                 </div>
               </div>
@@ -72,19 +90,19 @@
                 <div class="hero-inner-grid">
                   <div class="hero-inner-item">
                     <div class="hero-content">
-                      <h1>5-7 year olds are reading newspapers!</h1>
+                      <h1>My Name, My Identity</h1>
                       <div class="borderOne"></div>
-                      <p>The groundbreaking Accelerating Learning for All program revolutionizes education through peer-
-                        and activity-based
-                        learning. Don't just believe us - see for yourself!</p>
+                      <p>People are ashamed of using a thumb impression, while signing your own name gives a sense of
+                        dignity. Together, let’s
+                        build a future where inkpads are consigned to the dustbin of history.</p>
                       <div class="link-one"><a role="button" class="btn"
-                          href="https://www.youtube.com/watch?v=7BcWIiQfYHk&t=74s" type="button" target="_blank">watch
+                          href="https://www.youtube.com/watch?v=8Voz0O-ERgA" type="button" target="_blank">watch
                           video</a>
                       </div>
                     </div>
                   </div>
                   <div class="hero-inner-item">
-                    <div class="hero-img"><img src="img/slider/hero-004.jpg" alt="" class="img-fluid"></div>
+                    <div class="hero-img"><img src="img/slider/hero-002.jpg" alt="" class="img-fluid"></div>
                   </div>
                 </div>
               </div>
@@ -92,39 +110,20 @@
                 <div class="hero-inner-grid">
                   <div class="hero-inner-item">
                     <div class="hero-content">
-                      <h1>5-7 year olds are reading newspapers!</h1>
+                      <h1>Every word read is a step towards a brighter future</h1>
                       <div class="borderOne"></div>
-                      <p>The groundbreaking Accelerating Learning for All program revolutionizes education through peer-
-                        and activity-based
-                        learning. Don't just believe us - see for yourself!</p>
-                      <div class="link-one"><a role="button" class="btn"
-                          href="https://www.youtube.com/watch?v=7BcWIiQfYHk&t=74s" type="button" target="_blank">watch
-                          video</a>
+                      <p>Literacy is the foundation of education, employment and empowerment. Yet hundreds of millions
+                        of
+                        people around the
+                        world cannot read. Let’s work together to change that!</p>
+                      <div class="link-one"><a role="button" class="btn" href="literacy-now-app.aspx" type="button"
+                          target="_blank">start
+                          teaching today</a>
                       </div>
                     </div>
                   </div>
                   <div class="hero-inner-item">
-                    <div class="hero-img"><img src="img/slider/hero-005.jpg" alt="" class="img-fluid"></div>
-                  </div>
-                </div>
-              </div>
-              <div class="item">
-                <div class="hero-inner-grid">
-                  <div class="hero-inner-item">
-                    <div class="hero-content">
-                      <h1>5-7 year olds are reading newspapers!</h1>
-                      <div class="borderOne"></div>
-                      <p>The groundbreaking Accelerating Learning for All program revolutionizes education through peer-
-                        and activity-based
-                        learning. Don't just believe us - see for yourself!</p>
-                      <div class="link-one"><a role="button" class="btn"
-                          href="https://www.youtube.com/watch?v=7BcWIiQfYHk&t=74s" type="button" target="_blank">watch
-                          video</a>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="hero-inner-item">
-                    <div class="hero-img"><img src="img/slider/hero-006.jpg" alt="" class="img-fluid"></div>
+                    <div class="hero-img"><img src="img/slider/hero-001.jpg" alt="" class="img-fluid"></div>
                   </div>
                 </div>
               </div>
@@ -216,7 +215,7 @@
                     Massive Open
                     Online Training</p>
                   <div class="link-one">
-                    <a href="#" class="btn mx-auto">Go somewhere</a>
+                    <a href="partner-with-us.aspx" class="btn mx-auto">explore now</a>
                   </div>
                 </div>
               </div>
@@ -240,7 +239,8 @@
                   <p class="card-text text-center">Keen to learn about the latest educational innovations? Meet radical
                     thinkers & practitioners at Ed Leadership</p>
                   <div class="link-one">
-                    <a href="#" class="btn mx-auto">Go somewhere</a>
+                    <a href="https://getilearn.org/edleader/index.html" class="btn mx-auto" target="_blank">explore
+                      now</a>
                   </div>
                 </div>
               </div>
@@ -265,7 +265,9 @@
                     there at the
                     Synergy Summit 2.0</p>
                   <div class="link-one">
-                    <a href="#" class="btn mx-auto">Go somewhere</a>
+                    <a href="https://www.dignityeducation.org/synergysummit/index.aspx" class="btn mx-auto"
+                      target="_blank">explore
+                      now</a>
                   </div>
                 </div>
               </div>
@@ -286,7 +288,8 @@
                   <p class="card-text text-center">Ready to help shape the discourse on international education policy?
                     Join us at the 2nd World Leaders Conclave</p>
                   <div class="link-one">
-                    <a href="#" class="btn mx-auto">Go somewhere</a>
+                    <a href="https://www.dignityeducation.org/leadersconclave/" class="btn mx-auto"
+                      target="_blank">explore now</a>
                   </div>
                 </div>
               </div>
@@ -309,7 +312,7 @@
                   <p class="card-text text-center">Are you ready to make a big difference in somebody’s life? Start
                     teaching today with Literacy Now App.</p>
                   <div class="link-one">
-                    <a href="#" class="btn mx-auto">explore now</a>
+                    <a href="literacy-now-app.aspx" class="btn mx-auto">explore now</a>
                   </div>
                 </div>
               </div>
@@ -323,7 +326,7 @@
                     Discover
                     the ALfA materials in 30+ languages.</p>
                   <div class="link-one">
-                    <a href="#" class="btn mx-auto">explore now</a>
+                    <a href="toolkits.aspx" class="btn mx-auto">explore now</a>
                   </div>
                 </div>
               </div>
@@ -336,7 +339,8 @@
                   <p class="card-text text-center">Want to boost your students' foundational literacy and numeracy? Take
                     up the 45 Days to FLN Challenge.</p>
                   <div class="link-one">
-                    <a href="#" class="btn mx-auto">explore now</a>
+                    <a href="https://dignityeducation.org/links/images/45%20Days%20to%20FLN%20Challenge.pdf"
+                      target="_blank" class="btn mx-auto">explore now</a>
                   </div>
                 </div>
               </div>
@@ -349,7 +353,7 @@
                   <p class="card-text text-center">Ready to work together with diverse stakeholders towards literacy for
                     all? Reach out today to partner with us.</p>
                   <div class="link-one">
-                    <a href="#" class="btn mx-auto">explore now</a>
+                    <a href="partner-with-us.aspx" class="btn mx-auto">explore now</a>
                   </div>
                 </div>
               </div>
@@ -372,7 +376,7 @@
                   to learn foundational literacy and numeracy (FLN) in as little as 30-45 days.</p>
               </div>
               <div class="space-one"></div>
-              <div class="link-one"><a href="accelerating-learning-for-all.html">read more</a></div>
+              <div class="link-one"><a href="accelerating-learning-for-all.aspx">read more</a></div>
             </div>
             <div class="col-lg-6 col-md-12">
               <div class="wrapper-img">
@@ -396,13 +400,13 @@
                     <h4>International Projects</h4>
                     <p>Working with the schools of Maldives to improve literacy and numeracy outcomes for all primary
                       students.</p>
-                    <a href="our-projects.html/#International-projects-01" class="info">View
+                    <a href="our-projects.aspx#International-projects-01" class="info">View
                       More</a>
                   </div>
                 </div>
 
                 <div class="projects-card__heading">
-                  <a href="our-projects.html/#International-projects-01">International
+                  <a href="our-projects.aspx#International-projects-01">International
                     Projects</a>
                 </div>
               </div>
@@ -415,13 +419,13 @@
                   <div class="masked">
                     <h4>Adult Literacy</h4>
                     <p>Empowering women with the crucial skills of reading and writing.</p>
-                    <a href="our-projects.html/#adultlitearcy-area" class="info">View
+                    <a href="our-projects.aspx#adultlitearcy-area" class="info">View
                       More</a>
                   </div>
                 </div>
 
                 <div class="projects-card__heading">
-                  <a href="our-projects.html/#adultlitearcy-area">Adult Literacy</a>
+                  <a href="our-projects.aspx#adultlitearcy-area">Adult Literacy</a>
                 </div>
               </div>
             </div>
@@ -434,13 +438,13 @@
                     <h4>Government Schools</h4>
                     <p>Partnering with government schools in several districts to help achieve NIPUN targets of literacy
                       and numeracy.</p>
-                    <a href="our-projects.html/#government-school-empowernment" class="info">View
+                    <a href="our-projects.aspx#government-school-empowernment" class="info">View
                       More</a>
                   </div>
                 </div>
 
                 <div class="projects-card__heading">
-                  <a href="our-projects.html/#government-school-empowernment">Government Schools</a>
+                  <a href="our-projects.aspx#government-school-empowernment">Government Schools</a>
                 </div>
               </div>
             </div>
@@ -454,13 +458,13 @@
                     <p>Collaborating with leading NGOs including Magic Bus, Piramal Foundation and Teach for India to
                       build their literacy
                       program capabilities.</p>
-                    <a href="our-projects.html/#our-ngos" class="info">View
+                    <a href="our-projects.aspx#our-ngos" class="info">View
                       More</a>
                   </div>
                 </div>
 
                 <div class="projects-card__heading">
-                  <a href="our-projects.html/#our-ngos">NGOs</a>
+                  <a href="our-projects.aspx#our-ngos">NGOs</a>
                 </div>
               </div>
             </div>
@@ -472,13 +476,13 @@
                   <div class="masked">
                     <h4>Each One Teach One</h4>
                     <p>Inspiring and equipping hundreds of thousands of students to become literacy volunteers.</p>
-                    <a href="our-projects.html/#each-one-teach-one-section" class="info">View
+                    <a href="our-projects.aspx#each-one-teach-one-section" class="info">View
                       More</a>
                   </div>
                 </div>
 
                 <div class="projects-card__heading">
-                  <a href="our-projects.html/#each-one-teach-one-section">Each One Teach One</a>
+                  <a href="our-projects.aspx#each-one-teach-one-section">Each One Teach One</a>
                 </div>
               </div>
             </div>
@@ -490,13 +494,13 @@
                   <div class="masked">
                     <h4>Community Development</h4>
                     <p>Helping people from disadvantaged communities access their basic rights and entitlements.</p>
-                    <a href="our-projects.html/#our-community-area" class="info">View
+                    <a href="our-projects.aspx#our-community-area" class="info">View
                       More</a>
                   </div>
                 </div>
 
                 <div class="projects-card__heading">
-                  <a href="our-projects.html/#our-community-area">International
+                  <a href="our-projects.aspx#our-community-area">International
                     Projects</a>
                 </div>
               </div>
@@ -520,8 +524,6 @@
                   <div class="card-body">
                     <div class="flag">
                       <h5 class="card-title">Aïcha Bah Diallo</h5>
-
-                      <img src="img/flags/Af.svg" alt="India" />
                     </div>
                     <div class="card-text">
                       <p>
@@ -530,7 +532,6 @@
                       </p>
                     </div>
                   </div>
-                  <div class="card-footer"></div>
                 </div>
               </div>
             </div>
@@ -543,7 +544,6 @@
                   <div class="card-body">
                     <div class="flag">
                       <h5 class="card-title">Alesha Anderson (USA)</h5>
-                      <img src="img/flag/america.svg" alt="India" />
                     </div>
                     <div class="card-text">
                       <p>
@@ -552,7 +552,6 @@
                       </p>
                     </div>
                   </div>
-                  <div class="card-footer"></div>
                 </div>
               </div>
             </div>
@@ -566,7 +565,6 @@
                     <div class="flag">
                       <h5 class="card-title">Alexandre Romanovsky</h5>
 
-                      <img src="img/flag/america.svg" alt="India" />
                     </div>
                     <div class="card-text">
                       <p>
@@ -575,7 +573,6 @@
                       </p>
                     </div>
                   </div>
-                  <div class="card-footer"></div>
                 </div>
               </div>
             </div>
@@ -589,7 +586,6 @@
                     <div class="flag">
                       <h5 class="card-title">Bill Graham</h5>
 
-                      <img src="img/flag/america.svg" alt="India" />
                     </div>
                     <div class="card-text">
                       <p>
@@ -597,7 +593,6 @@
                       </p>
                     </div>
                   </div>
-                  <div class="card-footer"></div>
                 </div>
               </div>
             </div>
@@ -611,13 +606,11 @@
                     <div class="flag">
                       <h5 class="card-title">Bhanu Potta (India)</h5>
 
-                      <img src="img/flags/India.svg" alt="India" />
                     </div>
                     <div class="card-text">
                       <p>Global Executive Member & India Director, India.</p>
                     </div>
                   </div>
-                  <div class="card-footer"></div>
                 </div>
               </div>
             </div>
@@ -631,13 +624,11 @@
                     <div class="flag">
                       <h5 class="card-title">Chetnaa Mehrotra (India)</h5>
 
-                      <img src="img/flags/India.svg" alt="India" />
                     </div>
                     <div class="card-text">
                       <p>Founder - Rang Bhumi</p>
                     </div>
                   </div>
-                  <div class="card-footer"></div>
                 </div>
               </div>
             </div>
@@ -651,13 +642,11 @@
                     <div class="flag">
                       <h5 class="card-title">Cindy Charles (Guyana)</h5>
 
-                      <img src="img/flags/Gy.svg" alt="India" />
                     </div>
                     <div class="card-text">
                       <p>Kupanda Sisters Inc. Founder & CEO Guyana.</p>
                     </div>
                   </div>
-                  <div class="card-footer"></div>
                 </div>
               </div>
             </div>
@@ -671,13 +660,11 @@
                     <div class="flag">
                       <h5 class="card-title">David Bovill (UK)</h5>
 
-                      <img src="img/flags/US.svg" alt="India" />
                     </div>
                     <div class="card-text">
                       <p>Partnerships Manager at DEIP.</p>
                     </div>
                   </div>
-                  <div class="card-footer"></div>
                 </div>
               </div>
             </div>
@@ -691,13 +678,11 @@
                     <div class="flag">
                       <h5 class="card-title">David J. Rosen (USA)</h5>
 
-                      <img src="img/flags/US.svg" alt="India" />
                     </div>
                     <div class="card-text">
                       <p></p>
                     </div>
                   </div>
-                  <div class="card-footer"></div>
                 </div>
               </div>
             </div>
@@ -711,7 +696,6 @@
                     <div class="flag">
                       <h5 class="card-title">Ernesto Schieffelin (Chile)</h5>
 
-                      <img src="img/flags/Cl.svg" alt="India" />
                     </div>
                     <div class="card-text">
                       <p>
@@ -720,7 +704,6 @@
                       </p>
                     </div>
                   </div>
-                  <div class="card-footer"></div>
                 </div>
               </div>
             </div>
@@ -734,13 +717,11 @@
                     <div class="flag">
                       <h5 class="card-title">Fred Mednick (USA)</h5>
 
-                      <img src="img/flags/US.svg" alt="India" />
                     </div>
                     <div class="card-text">
                       <p>Teacher Without Borders Founder USA.</p>
                     </div>
                   </div>
-                  <div class="card-footer"></div>
                 </div>
               </div>
             </div>
@@ -754,7 +735,6 @@
                     <div class="flag">
                       <h5 class="card-title">Gail Davvis-Carter</h5>
 
-                      <img src="img/flags/US.svg" alt="India" />
                     </div>
                     <div class="card-text">
                       <p>
@@ -763,7 +743,6 @@
                       </p>
                     </div>
                   </div>
-                  <div class="card-footer"></div>
                 </div>
               </div>
             </div>
@@ -777,13 +756,11 @@
                     <div class="flag">
                       <h5 class="card-title">Girish Menon (India)</h5>
 
-                      <img src="img/flags/gb.svg" alt="India" />
                     </div>
                     <div class="card-text">
                       <p>CEO, STIR Education</p>
                     </div>
                   </div>
-                  <div class="card-footer"></div>
                 </div>
               </div>
             </div>
@@ -797,7 +774,6 @@
                     <div class="flag">
                       <h5 class="card-title">Inger-Mette Stenseth (Norway)</h5>
 
-                      <img src="img/flags/no.svg" alt="India" />
                     </div>
                     <div class="card-text">
                       <p>
@@ -806,7 +782,6 @@
                       </p>
                     </div>
                   </div>
-                  <div class="card-footer"></div>
                 </div>
               </div>
             </div>
@@ -820,13 +795,11 @@
                     <div class="flag">
                       <h5 class="card-title">Joanne Telser Frere (USA)</h5>
 
-                      <img src="img/flags/US.svg" alt="India" />
                     </div>
                     <div class="card-text">
                       <p>Literacy Chicago.</p>
                     </div>
                   </div>
-                  <div class="card-footer"></div>
                 </div>
               </div>
             </div>
@@ -840,13 +813,11 @@
                     <div class="flag">
                       <h5 class="card-title">Jon M Corippo (USA)</h5>
 
-                      <img src="img/flags/US.svg" alt="India" />
                     </div>
                     <div class="card-text">
                       <p>Eduprotocols<br />Author USA</p>
                     </div>
                   </div>
-                  <div class="card-footer"></div>
                 </div>
               </div>
             </div>
@@ -860,13 +831,11 @@
                     <div class="flag">
                       <h5 class="card-title">Kyle Zimmer (USA)</h5>
 
-                      <img src="img/flags/US.svg" alt="India" />
                     </div>
                     <div class="card-text">
                       <p>CEO & Co-founder USA</p>
                     </div>
                   </div>
-                  <div class="card-footer"></div>
                 </div>
               </div>
             </div>
@@ -880,13 +849,11 @@
                     <div class="flag">
                       <h5 class="card-title">Mary McCool Berry (USA)</h5>
 
-                      <img src="img/flags/US.svg" alt="US" />
                     </div>
                     <div class="card-text">
                       <p>Founder and Practitioner USA</p>
                     </div>
                   </div>
-                  <div class="card-footer"></div>
                 </div>
               </div>
             </div>
@@ -900,7 +867,6 @@
                     <div class="flag">
                       <h5 class="card-title">Michael Matos (USA)</h5>
 
-                      <img src="img/flags/US.svg" alt="India" />
                     </div>
                     <div class="card-text">
                       <p>
@@ -909,7 +875,6 @@
                       </p>
                     </div>
                   </div>
-                  <div class="card-footer"></div>
                 </div>
               </div>
             </div>
@@ -923,13 +888,11 @@
                     <div class="flag">
                       <h5 class="card-title">Navneet Anand (India)</h5>
 
-                      <img src="img/flags/India.svg" alt="India" />
                     </div>
                     <div class="card-text">
                       <p>GreyMatters Communications & Consulting.</p>
                     </div>
                   </div>
-                  <div class="card-footer"></div>
                 </div>
               </div>
             </div>
@@ -943,13 +906,11 @@
                     <div class="flag">
                       <h5 class="card-title">Nicolas Gravel (Canada)</h5>
 
-                      <img src="img/flags/fr.svg" alt="India" />
                     </div>
                     <div class="card-text">
                       <p>Professor of Economics France</p>
                     </div>
                   </div>
-                  <div class="card-footer"></div>
                 </div>
               </div>
             </div>
@@ -963,13 +924,11 @@
                     <div class="flag">
                       <h5 class="card-title">Nixon Joseph (India)</h5>
 
-                      <img src="img/flags/India.svg" alt="India" />
                     </div>
                     <div class="card-text">
                       <p>Children's LoveCastles Trust</p>
                     </div>
                   </div>
-                  <div class="card-footer"></div>
                 </div>
               </div>
             </div>
@@ -983,13 +942,11 @@
                     <div class="flag">
                       <h5 class="card-title">PETER CAMPLING (USA)</h5>
 
-                      <img src="img/flags/US.svg" alt="India" />
                     </div>
                     <div class="card-text">
                       <p>UK education system for 25 years.</p>
                     </div>
                   </div>
-                  <div class="card-footer"></div>
                 </div>
               </div>
             </div>
@@ -1003,13 +960,11 @@
                     <div class="flag">
                       <h5 class="card-title">PETER KWASI KODJIE (Ghana)</h5>
 
-                      <img src="img/flags/ghana.svg" alt="India" />
                     </div>
                     <div class="card-text">
                       <p>SECRETARY-GENERAL All Africa Student's Union.</p>
                     </div>
                   </div>
-                  <div class="card-footer"></div>
                 </div>
               </div>
             </div>
@@ -1023,13 +978,11 @@
                     <div class="flag">
                       <h5 class="card-title">Pradeep Kumar (India)</h5>
 
-                      <img src="img/flags/India.svg" alt="India" />
                     </div>
                     <div class="card-text">
                       <p>Associate Director, Programs and Partnerships.</p>
                     </div>
                   </div>
-                  <div class="card-footer"></div>
                 </div>
               </div>
             </div>
@@ -1043,13 +996,11 @@
                     <div class="flag">
                       <h5 class="card-title">Rana Dajani (Jordan)</h5>
 
-                      <img src="img/flags/US.svg" alt="India" />
                     </div>
                     <div class="card-text">
                       <p>President USA</p>
                     </div>
                   </div>
-                  <div class="card-footer"></div>
                 </div>
               </div>
             </div>
@@ -1063,13 +1014,11 @@
                     <div class="flag">
                       <h5 class="card-title">Ravi Sreedharan (India)</h5>
 
-                      <img src="img/flags/India.svg" alt="India" />
                     </div>
                     <div class="card-text">
                       <p>Indian School of Development Management</p>
                     </div>
                   </div>
-                  <div class="card-footer"></div>
                 </div>
               </div>
             </div>
@@ -1083,13 +1032,11 @@
                     <div class="flag">
                       <h5 class="card-title">Rebecca Zvomarima (Zimbawe)</h5>
 
-                      <img src="img/flag/america.svg" alt="India" />
                     </div>
                     <div class="card-text">
                       <p>Founding Director of Vadiwa Trust Organization.</p>
                     </div>
                   </div>
-                  <div class="card-footer"></div>
                 </div>
               </div>
             </div>
@@ -1103,13 +1050,11 @@
                     <div class="flag">
                       <h5 class="card-title">Richard Allen (USA)</h5>
 
-                      <img src="img/flags/gb.svg" alt="India" />
                     </div>
                     <div class="card-text">
                       <p>Director of Partnerships USA</p>
                     </div>
                   </div>
-                  <div class="card-footer"></div>
                 </div>
               </div>
             </div>
@@ -1123,7 +1068,6 @@
                     <div class="flag">
                       <h5 class="card-title">Robert Thorn (Turkey)</h5>
 
-                      <img src="img/flags/tr.svg" alt="India" />
                     </div>
                     <div class="card-text">
                       <p>
@@ -1132,7 +1076,6 @@
                       </p>
                     </div>
                   </div>
-                  <div class="card-footer"></div>
                 </div>
               </div>
             </div>
@@ -1146,7 +1089,6 @@
                     <div class="flag">
                       <h5 class="card-title">Samuel Sasu Adonteng</h5>
 
-                      <img src="img/flags/ghana.svg" alt="India" />
                     </div>
                     <div class="card-text">
                       <p>
@@ -1155,7 +1097,6 @@
                       </p>
                     </div>
                   </div>
-                  <div class="card-footer"></div>
                 </div>
               </div>
             </div>
@@ -1169,13 +1110,11 @@
                     <div class="flag">
                       <h5 class="card-title">Shrutika Jadhav (India)</h5>
 
-                      <img src="img/flags/India.svg" alt="India" />
                     </div>
                     <div class="card-text">
                       <p>Manager, Philanthropic Advisory India</p>
                     </div>
                   </div>
-                  <div class="card-footer"></div>
                 </div>
               </div>
             </div>
@@ -1191,13 +1130,11 @@
                         Sigamoney Naicker (South Africa)
                       </h5>
 
-                      <img src="img/flags/za.svg" alt="India" />
                     </div>
                     <div class="card-text">
                       <p>University of the Western Cape.</p>
                     </div>
                   </div>
-                  <div class="card-footer"></div>
                 </div>
               </div>
             </div>
@@ -1211,13 +1148,11 @@
                     <div class="flag">
                       <h5 class="card-title">Sigbjorn Dugal (Norway)</h5>
 
-                      <img src="img/flags/no.svg" alt="India" />
                     </div>
                     <div class="card-text">
                       <p>Founder, Pickatale Norway.</p>
                     </div>
                   </div>
-                  <div class="card-footer"></div>
                 </div>
               </div>
             </div>
@@ -1231,13 +1166,11 @@
                     <div class="flag">
                       <h5 class="card-title">Stephen Peters (USA)</h5>
 
-                      <img src="img/flags/US.svg" alt="India" />
                     </div>
                     <div class="card-text">
                       <p>President USA</p>
                     </div>
                   </div>
-                  <div class="card-footer"></div>
                 </div>
               </div>
             </div>
@@ -1251,13 +1184,11 @@
                     <div class="flag">
                       <h5 class="card-title">Swati Popat Vats (India)</h5>
 
-                      <img src="img/flags/India.svg" alt="India" />
                     </div>
                     <div class="card-text">
                       <p>Podar Education Network.</p>
                     </div>
                   </div>
-                  <div class="card-footer"></div>
                 </div>
               </div>
             </div>
@@ -1271,13 +1202,11 @@
                     <div class="flag">
                       <h5 class="card-title">Sylvia Guimarães (Brazil)</h5>
 
-                      <img src="img/flags/br.svg" alt="India" />
                     </div>
                     <div class="card-text">
                       <p>Co-Founder and president Brazil</p>
                     </div>
                   </div>
-                  <div class="card-footer"></div>
                 </div>
               </div>
             </div>
@@ -1291,13 +1220,11 @@
                     <div class="flag">
                       <h5 class="card-title">Vaibhav Chauhan (India)</h5>
 
-                      <img src="img/flags/India.svg" alt="India" />
                     </div>
                     <div class="card-text">
                       <p>HCL Foundation.</p>
                     </div>
                   </div>
-                  <div class="card-footer"></div>
                 </div>
               </div>
             </div>
@@ -1311,13 +1238,11 @@
                     <div class="flag">
                       <h5 class="card-title">Vicky Colbert (Colombia)</h5>
 
-                      <img src="img/flags/co.svg" alt="India" />
                     </div>
                     <div class="card-text">
                       <p>Founder and Director, Fundación Escuela Nueva.</p>
                     </div>
                   </div>
-                  <div class="card-footer"></div>
                 </div>
               </div>
             </div>
@@ -1331,13 +1256,11 @@
                     <div class="flag">
                       <h5 class="card-title">Yogesh Kumar (India)</h5>
 
-                      <img src="img/flags/India.svg" alt="India" />
                     </div>
                     <div class="card-text">
                       <p>HCL Foundation India</p>
                     </div>
                   </div>
-                  <div class="card-footer"></div>
                 </div>
               </div>
             </div>
@@ -1351,13 +1274,11 @@
                     <div class="flag">
                       <h5 class="card-title">Yogesh Kumar, IAS (India)</h5>
 
-                      <img src="img/flags/co.svg" alt="India" />
                     </div>
                     <div class="card-text">
                       <p>Additional Commissioner, MGNREGA India</p>
                     </div>
                   </div>
-                  <div class="card-footer"></div>
                 </div>
               </div>
             </div>
@@ -1365,7 +1286,7 @@
 
           <div class="row">
             <div class="link-one text-center">
-              <a class="btn mx-auto" href="GlobalAdvisoryCommittee.html" role="button">Explore</a>
+              <a class="btn mx-auto" href="global-advisory-committee.aspx" role="button">Explore</a>
             </div>
           </div>
         </div>
@@ -1440,7 +1361,7 @@
 
           <div class="row">
             <div class="link-one text-center">
-              <a class="btn mx-auto" href="#" role="button">Partner with Us</a>
+              <a class="btn mx-auto" href="our-partners.aspx" role="button">Partner with Us</a>
             </div>
           </div>
         </div>
@@ -1675,7 +1596,8 @@
                 <div class="publications-grid__items">
                   <h6 class="heading-six">Global Dream Program in Hamirpur</h6>
                   <div class="link-one">
-                    <a href="https://dignityeducation.org/links/img/Hamidphur%20analysis.pdf">Click here</a>
+                    <a href="https://dignityeducation.org/links/img/Hamidphur%20analysis.pdf" target="_blank">Click
+                      here</a>
                   </div>
                 </div>
               </div>
@@ -1688,7 +1610,7 @@
                 <div class="publications-grid__items">
                   <h6 class="heading-six">Why Can't The Children Read?</h6>
                   <div class="link-one">
-                    <a href="https://dignityeducation.org/links/images/GDS%20Child.pdf">Click here</a>
+                    <a href="https://dignityeducation.org/links/images/GDS%20Child.pdf" target="_blank">Click here</a>
                   </div>
                 </div>
               </div>
@@ -1701,7 +1623,7 @@
                 <div class="publications-grid__items">
                   <h6 class="heading-six">Accelerating Adult Literacy Report</h6>
                   <div class="link-one">
-                    <a href="https://dignityeducation.org/links/images/GDS%20Adult.pdf">Click here</a>
+                    <a href="https://dignityeducation.org/links/images/GDS%20Adult.pdf" target="_blank">Click here</a>
                   </div>
                 </div>
               </div>
@@ -1714,7 +1636,8 @@
                 <div class="publications-grid__items">
                   <h6 class="heading-six">Synergy Summit Report</h6>
                   <div class="link-one">
-                    <a href="https://dignityeducation.org/links/img/Synergy%20Summit%20Report%202022.pdf">Click here</a>
+                    <a href="https://dignityeducation.org/links/img/Synergy%20Summit%20Report%202022.pdf"
+                      target="_blank">Click here</a>
                   </div>
                 </div>
               </div>
@@ -1727,7 +1650,8 @@
                 <div class="publications-grid__items">
                   <h6 class="heading-six">Policymakers Conclave report</h6>
                   <div class="link-one">
-                    <a href="https://dignityeducation.org/links/img/Global%20Policymakers%20Conclave%20Report.pdf">Click
+                    <a href="https://dignityeducation.org/links/img/Global%20Policymakers%20Conclave%20Report.pdf"
+                      target="_blank">Click
                       here</a>
                   </div>
                 </div>
@@ -1741,7 +1665,8 @@
                 <div class="publications-grid__items">
                   <h6 class="heading-six">45 Days to FLN Challenge</h6>
                   <div class="link-one">
-                    <a href="https://dignityeducation.org/links/images/45%20Days%20to%20FLN%20Challenge.pdf">Click
+                    <a href="https://dignityeducation.org/links/images/45%20Days%20to%20FLN%20Challenge.pdf"
+                      target="_blank">Click
                       here</a>
                   </div>
                 </div>
@@ -1755,7 +1680,8 @@
                 <div class="publications-grid__items">
                   <h6 class="heading-six">People's Movement for Literacy</h6>
                   <div class="link-one">
-                    <a href="https://dignityeducation.org/links/People's%20Movement%20for%20Literacy.pdf">Click
+                    <a href="https://dignityeducation.org/links/People's%20Movement%20for%20Literacy.pdf"
+                      target="_blank">Click
                       here</a>
                   </div>
                 </div>
@@ -1769,7 +1695,7 @@
                 <div class="publications-grid__items">
                   <h6 class="heading-six">Report on Massive Open Online Training</h6>
                   <div class="link-one">
-                    <a href="https://dignityeducation.org/links/img/Moot%20Report.pdf">Click
+                    <a href="https://dignityeducation.org/links/img/Moot%20Report.pdf" target="_blank">Click
                       here</a>
                   </div>
                 </div>
@@ -1783,7 +1709,7 @@
                 <div class="publications-grid__items">
                   <h6 class="heading-six">ALfA Teacher Handbook</h6>
                   <div class="link-one">
-                    <a href="https://dignityeducation.org/links/img/ALfA%20Teacher%20Handbook.pdf">Click
+                    <a href="https://dignityeducation.org/links/img/ALfA%20Teacher%20Handbook.pdf" target="_blank">Click
                       here</a>
                   </div>
                 </div>
@@ -1797,7 +1723,7 @@
                 <div class="publications-grid__items">
                   <h6 class="heading-six">LPD report</h6>
                   <div class="link-one">
-                    <a href="https://dignityeducation.org/links/images/LPD%20report.pdf">Click
+                    <a href="https://dignityeducation.org/links/images/LPD%20report.pdf" target="_blank">Click
                       here</a>
                   </div>
                 </div>
@@ -1811,7 +1737,8 @@
                 <div class="publications-grid__items">
                   <h6 class="heading-six">Sambalpur Report</h6>
                   <div class="link-one">
-                    <a href="https://dignityeducation.org/links/images/Sambalpur%20Report%20SG.pdf">Click
+                    <a href="https://dignityeducation.org/links/images/Sambalpur%20Report%20SG.pdf"
+                      target="_blank">Click
                       here</a>
                   </div>
                 </div>
@@ -1825,7 +1752,8 @@
                 <div class="publications-grid__items">
                   <h6 class="heading-six">India Systemic Change Report</h6>
                   <div class="link-one">
-                    <a href="https://dignityeducation.org/links/images/Systemic%20Change%20FLN%20for%20All%202.pdf">Click
+                    <a href="https://dignityeducation.org/links/images/Systemic%20Change%20FLN%20for%20All%202.pdf"
+                      target="_blank">Click
                       here</a>
                   </div>
                 </div>
@@ -1839,7 +1767,8 @@
                 <div class="publications-grid__items">
                   <h6 class="heading-six">Global Systemic Change Report</h6>
                   <div class="link-one">
-                    <a href="https://dignityeducation.org/links/images/Systemic%20Change%20FLN%20for%20All%202.pdf">Click
+                    <a href="https://dignityeducation.org/links/images/Systemic%20Change%20FLN%20for%20All%202.pdf"
+                      target="_blank">Click
                       here</a>
                   </div>
                 </div>
@@ -1853,7 +1782,8 @@
                 <div class="publications-grid__items">
                   <h6 class="heading-six">Gandhi, S., "Illiteracy Inequality", Economic & Political Weekly, 2021</h6>
                   <div class="link-one">
-                    <a href="https://dignityeducation.org/links/img/Journal%20of%20New%20Economics.pdf">Click
+                    <a href="https://dignityeducation.org/links/img/Journal%20of%20New%20Economics.pdf"
+                      target="_blank">Click
                       here</a>
                   </div>
                 </div>
@@ -1861,7 +1791,7 @@
             </div>
           </div>
           <div class="link-one text-center">
-            <a href="media-coverage.html" class="mx-auto">view all reports</a>
+            <a href="media-coverage.aspx" class="mx-auto">view all reports</a>
           </div>
         </div>
       </section>
@@ -1930,6 +1860,12 @@
                     id="widget18"></iframe>
                 </div>
               </div>
+            </div>
+          </div>
+          <div class="space-three"></div>
+          <div class="row">
+            <div class="link-one text-center">
+              <a href="media-coverage.aspx" class="mx-auto">media Coverage</a>
             </div>
           </div>
         </div>
